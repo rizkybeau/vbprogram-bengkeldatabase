@@ -1,0 +1,123 @@
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\bin\Debug\Bengkel.exe
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\bin\Debug\Bengkel.pdb
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\bin\Debug\Bengkel.xml
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.exe
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.xml
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.pdb
+C:\Users\Work\AppData\Local\Temporary Projects\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.exe
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.xml
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.pdb
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.exe
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.pdb
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.xml
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form3.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form4.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form5.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form6.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form7.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.exe.config
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.formCetak.resources
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\MetroFramework.Design.dll
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\MetroFramework.dll
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Work\Documents\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.exe.config
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.exe
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.xml
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.pdb
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbprojResolveAssemblyReference.cache
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form3.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form4.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form5.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form6.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form7.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.formCetak.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.exe
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.pdb
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\bin\Debug\Bengkel.xml
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form8.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form9.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.MDIParent1.resources
+D:\@RIZKI HOME\Visual Studio 2010\Projects\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form10.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\bin\Debug\Bengkel.exe.config
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.exe
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.xml
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.pdb
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\bin\Debug\Bengkel.exe
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\bin\Debug\Bengkel.pdb
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\bin\Debug\Bengkel.xml
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form10.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form3.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form4.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form5.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form6.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form7.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form8.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Form9.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.formCetak.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.MDIParent1.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+C:\Users\ASUS\Desktop\Bengkel\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.exe.config
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.exe
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.xml
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.pdb
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form10.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form3.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form4.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form5.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form6.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form7.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form8.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form9.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.formCetak.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.MDIParent1.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.exe
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.pdb
+C:\Users\ASUS\Desktop\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.xml
+E:\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.exe.config
+E:\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.exe
+E:\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.xml
+E:\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.pdb
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.exe.config
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.exe
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.xml
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.pdb
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.exe
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.pdb
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\bin\Debug\Bengkel.xml
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.vbprojResolveAssemblyReference.cache
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form1.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form10.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form2.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form3.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form4.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form5.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form6.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form7.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form8.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Form9.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.formCetak.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.MDIParent1.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.Resources.resources
+E:\ALL DATA\KULIAH\PROJECT FINAL\Bengkel - BASDAT\Bengkel\obj\x86\Debug\Bengkel.vbproj.GenerateResource.Cache
